@@ -1,0 +1,7 @@
+tensorflow>=2.12
+streamlit
+pillow
+scikit-learn
+numpy
+matplotlib
+seaborn
